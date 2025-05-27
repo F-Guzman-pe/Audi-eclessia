@@ -1,0 +1,40 @@
+
+body {
+    font-family: 'Georgia', serif;
+    background-color: #fdfaf6;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+header {
+    text-align: center;
+    padding: 2rem;
+    background-color: #f0ead6;
+}
+.hero-image {
+    width: 150px;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+nav a {
+    text-decoration: none;
+    color: #6a4e42;
+    font-weight: bold;
+}
+main {
+    padding: 2rem;
+}
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #eee;
+}
+audio {
+    width: 90%;
+    margin: 1rem auto;
+}
